@@ -8,4 +8,5 @@ This is a project done for my PhD thesis research, as well as a collaboration wi
 # Files
 - There are Jupyter notebook files that used for creation of proximity graphs, caluclation of physical density and neuron data reconstruction.
 
-Data: It will be hosted soon on another platform.
+# Data: 
+It will be hosted soon (in a few months) on another platform. At the moment, I am mostly using Janelia fruit fly brain  data.
