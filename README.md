@@ -25,7 +25,9 @@ To access the original data, you will need to use the Python library provided by
 If you want to understand this library more, you can read through their documentation https://connectome-neuprint.github.io/neuprint-python/docs/index.html
 
 More specifically, I have saved data for the intermediate steps of my empirical analysis:
+
 **neuron_regions_information** - Used for storing information about the neurons in specific regions.
+
 **neuron_regions_points** - Used for storing point clouds of neuron data.
 
 
