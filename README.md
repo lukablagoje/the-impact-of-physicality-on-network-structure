@@ -1,14 +1,7 @@
 # Research overview
-This project is a part of the published research work "Understanding the Impact of physicality on network structure", done in the emerging field of Physical Networks, which aims to understand the properties of three-dimensional networked systems (such as biological neural networks):
-![image](https://github.com/lukablagoje/physical-networks-spatially-embedded-networks/assets/52599010/f9c2db46-4a1d-4cff-bfaf-4c9076193b91)
-
-This research is focused on specific models and meta-graph, which encode if physical objects are in collision with each other (if they collide, there is an edge). I technically implemented a generalized meta-graph (using point clouds and k-d trees), by encoding information on how far away are the neighboring links to each other, in terms of Euclidean distance in 3D space (so it's not only a binary collision). I applied this new representation to efficiently solve a computationally challenging task: finding out how many link-to-link physical collisions are obtained if the thickness of the neurons is increased for 20 different additive factors. The results of this analysis have shown that biological neural networks are composed of highly confined objects, which have many neighbors in their local physical neighborhood, which cannot be said for mitochondrial, vascular, and plant root networks:
-
-![image](https://github.com/lukablagoje/physical-networks-spatially-embedded-networks/assets/52599010/6da0a7e2-6159-4483-b00f-feceaa768312)
-
-I further developed the representation to allow the analysis of how each individual neuron is constrained:
-
-![image](https://github.com/lukablagoje/physical-networks-spatially-embedded-networks/assets/52599010/0ee93cf4-eaab-42f5-a69f-9887f246c85b)
+This project is a part of the published research work "Understanding the Impact of physicality on network structure", done in the emerging field of Physical Networks, which aims to understand the properties of three-dimensional networked systems (such as biological neural networks).
+This research is focused on specific models and meta-graph, which encode if physical objects are in collision with each other (if they collide, there is an edge). I technically implemented a generalized meta-graph (using point clouds and k-d trees), by encoding information on how far away are the neighboring links to each other, in terms of Euclidean distance in 3D space (so it's not only a binary collision). I applied this new representation to efficiently solve a computationally challenging task: finding out how many link-to-link physical collisions are obtained if the thickness of the neurons is increased for 20 different additive factors. The results of this analysis have shown that biological neural networks are composed of highly confined objects, which have many neighbors in their local physical neighborhood, which cannot be said for mitochondrial, vascular, and plant root networks.
+Finally, I further developed the representation to analyze not the entire datasets, each individual neuron and it's physical confinement
 
 If you want to read more about this research, please check out the links below:
 
