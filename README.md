@@ -1,11 +1,11 @@
 # Research overview
 This project is a part of the published research work "Understanding the Impact of physicality on network structure", done in the emerging field of Physical Networks, which aims to understand the properties of three-dimensional networked systems (such as biological neural networks).
 
-This research is focused on specific models and meta-graph, which encode if physical objects are in collision with each other (if they collide, there is an edge). I technically implemented a generalized meta-graph (using point clouds and k-d trees), by encoding information on how far away are the neighboring links to each other, in terms of Euclidean distance in 3D space (so it's not only a binary collision). 
+A concept of "generalized meta-graph", which I implemented in Python (using point clouds and kd-trees), by encoding information on Euclidean distances between neighboring edges.
 
-I applied this new representation to efficiently solve a computationally challenging task: finding out how many link-to-link physical collisions are obtained if the thickness of the neurons is increased for 20 different additive factors. The results of this analysis have shown that biological neural networks are composed of highly confined objects, which have many neighbors in their local physical neighborhood, which cannot be said for mitochondrial, vascular, and plant root networks.
+I applied this new representation to efficiently solve a computationally challenging task: finding out how many unique neuron-to-neuron physical collisions are obtained if the thickness of the neurons is increased for 20 different additive factors. The results of this analysis have shown that biological neural networks are composed of highly confined objects, which have many neighbors in their local physical neighborhood, which cannot be said for mitochondrial, vascular, and plant root networks.
 
-Finally, I further developed the representation to analyze not the entire datasets, each individual neuron and it's physical confinement
+Finally, I further developed the representation to analyze not the entire dataset, but each individual neuron and its physical confinement.
 
 If you want to read more about this research, please check out the links below:
 
