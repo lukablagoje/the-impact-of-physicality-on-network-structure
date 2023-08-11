@@ -18,8 +18,10 @@ arXiv link: https://arxiv.org/abs/2211.13265
 
 # Technical project overview
 First, I  access and download the neuron skeleton data, which was further processed to obtain a dataset composed only of points (point clouds) -  **1. obtain_neuron_skeletons.ipynb**.
+
 # Data
 To access the original data, you will need to use the Python library provided by the Janelia project, which you can install from https://pypi.org/project/neuprint-python/
+
 If you want to understand this library more, you can read through their documentation https://connectome-neuprint.github.io/neuprint-python/docs/index.html
 
 More specifically, I have saved data for the intermediate steps of my empirical analysis:
