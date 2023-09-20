@@ -16,6 +16,8 @@ arXiv link: https://arxiv.org/abs/2211.13265
 # Technical project overview
 First, I  access and download the neuron skeleton data, which was further processed to obtain a dataset composed only of points (point clouds) -  **1. obtain_neuron_skeletons.ipynb**.
 
+Second, I develop an algorithm that creates a labeled point cloud, which is stored in the k-d tree, allowing for efficient search of spatial neighbors, with labeling included (as scipy.spatial k-d trees work with unlabeled points) -  **2.. creating_metagraphs**
+
 # Data
 To access the original data, you will need to use the Python library provided by the Janelia project, which you can install from https://pypi.org/project/neuprint-python/
 
