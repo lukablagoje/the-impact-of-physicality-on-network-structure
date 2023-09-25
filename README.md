@@ -25,7 +25,7 @@ Finally, I apply the labeled point cloud algorithm to find the number of physica
 
 [**neuron_regions_points**](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure/tree/main/neuron_regions_points) - Folder for storing point clouds of neuron data, which are in CSV format.
 
-[**querying results**]https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure/tree/main/querying_results) - Folder for storing labeled kd-tree results, which are in pickle format (the number in the filename represents querying radius)
+[**querying results**](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure/tree/main/querying_results) - Folder for storing labeled kd-tree results, which are in pickle format (the number in the filename represents querying radius)
 
 To access the original dataset, you will need to use the Python library provided by the Janelia project, which you can install from https://pypi.org/project/neuprint-python/
 
