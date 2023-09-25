@@ -1,7 +1,7 @@
-# Research overview
+# Research project overview
 This project is a part of the published research work "The Impact of Physicality on Network Structure", done in the emerging field of Physical Networks, which aims to understand the properties of three-dimensional networked systems (such as biological neural networks).
 
-A concept of "generalized meta-graph", which I implemented in Python (using point clouds and kd-trees), by encoding information on Euclidean distances between neighboring edges.
+In this paper, a linear physical network model is introduced, along with the collision-avoiding representation graph, called a "metagraph" representation. Additionally, the concept of "generalized meta-graph", which can be applied to empirical data is introduced, by encoding information on Euclidean distances between neighboring edges is introduced.
 
 I applied this new representation to efficiently solve a computationally challenging task: finding out how many unique neuron-to-neuron physical collisions are obtained if the thickness of the neurons is increased for 20 different additive factors. The results of this analysis have shown that biological neural networks are composed of highly confined objects, which have many neighbors in their local physical neighborhood, which cannot be said for mitochondrial, vascular, and plant root networks.
 
