@@ -22,6 +22,7 @@ My technical contribution to this project is divided into three conceptually dif
 
 [**3. weighted_metagraph_results**](https://github.com/lukablagoje/understanding-the-impact-of-physicality-on-network-structure/blob/main/3.%20weighted_metagraph_results.ipynb) - Finally, I apply the labeled point cloud algorithm to find the number of physically close neurons (objects) as their radial thickness is increased, both for individual neurons and all neurons in the dataset at once.
 
+# Data
 [**neuron_regions_information**](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure/tree/main/neuron_regions_information) - Folder for storing information about the neurons in specific regions, which are in CSV format.
 
 [**neuron_regions_points**](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure/tree/main/neuron_regions_points) - Folder for storing point clouds of neuron data, which are in CSV format.
