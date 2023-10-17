@@ -10,7 +10,7 @@ If you want to read more about this research, please check out the links below:
 
 Publication link: (Coming soon)
 
-arXiv link - (https://arxiv.org/abs/2211.13265)[https://arxiv.org/abs/2211.13265]
+arXiv link - [https://arxiv.org/abs/2211.13265](https://arxiv.org/abs/2211.13265)
 
 # Technical project overview
 My technical contribution to this project is divided into three conceptually different parts:
