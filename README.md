@@ -8,7 +8,7 @@ I further developed the representation to analyze not the entire dataset, but ea
 
 If you want to read more about this research, please check out the links below:
 
-Publication link: (Coming soon)
+Publication link: [https://www.nature.com/articles/s41567-023-02267-1](https://www.nature.com/articles/s41567-023-02267-1)
 
 arXiv link - [https://arxiv.org/abs/2211.13265](https://arxiv.org/abs/2211.13265)
 
