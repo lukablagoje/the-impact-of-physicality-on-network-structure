@@ -1,4 +1,4 @@
-# Research project overview
+# The Impact of Physicality on Network Structure
 This project is a part of the published research work "The Impact of Physicality on Network Structure", done in the emerging field of Physical Networks, which aims to understand the properties of three-dimensional networked systems (such as biological neural networks).
 
 In this paper, a linear physical network model is introduced, along with the collision-avoiding representation graph, called a "metagraph" representation. The concept of "generalized meta-graph" is introduced as well, which can be applied to empirical data, by encoding information on Euclidean distances between neighboring edges.
