@@ -5,6 +5,7 @@ In this paper, a linear physical network model is introduced, along with the col
 
 In my contribution to this project, I applied this new representation to efficiently solve a computationally challenging task: finding out how many unique neuron-to-neuron physical collisions are obtained if the thickness of the neurons is increased for 20 different additive factors. The results of this analysis have shown that biological neural networks are composed of highly confined objects, which have many neighbors in their local physical neighborhood, which cannot be said for mitochondrial, vascular, and plant root networks.
 I further developed the representation to analyze not the entire dataset, but each individual neuron and its physical confinement.
+![image](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure/assets/52599010/8b707c1b-eb95-453d-beaf-e965fe443869)
 
 If you want to read more about this research, please check out the links below:
 
