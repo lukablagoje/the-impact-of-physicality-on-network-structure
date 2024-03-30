@@ -4,7 +4,7 @@ This project is a part of the published research work "The Impact of Physicality
 In this paper, a linear physical network model is introduced, along with the collision-avoiding representation graph, called a "metagraph" representation (if two edges collide physically, they share an edge in this metagraph). The concept of "generalized meta-graph" is introduced as well, which can be applied to empirical data, by encoding information on Euclidean distances between neighboring edges.
 
 In my contribution to this project, I applied this new representation to efficiently solve a computationally challenging task: finding out how many unique neuron-to-neuron physical collisions are obtained if the thickness of the neurons is increased for 20 different additive factors. The results of this analysis have shown that biological neural networks are composed of highly confined objects, which have many neighbors in their local physical neighborhood, which cannot be said for mitochondrial, vascular, and plant root networks.
-I further developed the representation to analyze not the entire dataset, but each individual neuron and its physical confinement.
+I further developed the representation for each individual neuron and its physical confinement (meta-degree), for a very small additive factor - there's initially no collisions, but with a small increase in thickness, this changes, as shown in the Figure below:
 ![image](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure/assets/52599010/8b707c1b-eb95-453d-beaf-e965fe443869)
 
 If you want to read more about this research, please check out the links below:
