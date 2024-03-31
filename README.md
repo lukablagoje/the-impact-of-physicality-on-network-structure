@@ -30,7 +30,7 @@ My technical contribution to this project is divided into three conceptually dif
 
 [**querying results**](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure/tree/main/querying_results) - Folder for storing labeled kd-tree results, which are in pickle format (the number in the filename represents querying radius)
 
-To access the original dataset, you will need to use the Python library provided by the Janelia project, which you can install from https://pypi.org/project/neuprint-python/
+To access the original dataset, you will need to use the Python library provided by the Janelia project, which you can install from: https://pypi.org/project/neuprint-python/
 
-If you want to understand this library more, you can read through their documentation https://connectome-neuprint.github.io/neuprint-python/docs/index.html
+If you want to understand this library more, you can read through their documentation: https://connectome-neuprint.github.io/neuprint-python/docs/index.html
 
